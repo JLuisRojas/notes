@@ -9,6 +9,7 @@ Cool or important info.
 
 ### Rationality
 [Fake Beliefs - Less Wrong 2.0](Rationality/LW2-Fake-Beliefs.md)
+
 [Predictably Wrong - Less Wrong 2.0](Rationality/LW2-Predictably-Wrong.md)
 
 ## Books
