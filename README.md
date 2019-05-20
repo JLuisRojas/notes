@@ -5,7 +5,6 @@ Cool or important info.
 
 ### Leadership
 [Phil Condit - CEO at Boeing](People/PhilCondit(CEO-Boeing).md)
-[Predictably Wrong - Less Wrong 2.0](Rationality/LW2-Predictably-Wrong.md)
 
 ### Rationality
 [Fake Beliefs - Less Wrong 2.0](Rationality/LW2-Fake-Beliefs.md)
