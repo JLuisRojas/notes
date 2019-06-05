@@ -6,9 +6,13 @@ Cool or important info.
 ### Leadership
 [Phil Condit - CEO at Boeing](People/PhilCondit(CEO-Boeing).md)
 
+[PattyMcCord - exCTO at Netflix](People/PattyMcCord(CTO-Netflix).md)
+
 ### Entrepreneurship
 
 [Randall Pich - CEO at Live Fit](People/RandallPich(CEO-LiveFit).md)
+
+[PattyMcCord - exCTO at Netflix](People/PattyMcCord(CTO-Netflix).md)
 
 ### Self Help
 
@@ -23,6 +27,10 @@ Cool or important info.
 ### Marketing
 
 [Randall Pich - CEO at Live Fit](People/RandallPich(CEO-LiveFit).md)
+
+### Hiring
+
+[PattyMcCord - exCTO at Netflix](People/PattyMcCord(CTO-Netflix).md)
 
 ## Books
 [Meditations - by Marucs Aurelius](Books/Meditations-MA.md)
