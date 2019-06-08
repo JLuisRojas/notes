@@ -8,11 +8,15 @@ Cool or important info.
 
 [PattyMcCord - exCTO at Netflix](People/PattyMcCord(CTO-Netflix).md)
 
+[Simon Sinek - The Infinite Game: How to Lead in the 21st Century](People/SimonSinek.md)
+
 ### Entrepreneurship
 
 [Randall Pich - CEO at Live Fit](People/RandallPich(CEO-LiveFit).md)
 
 [PattyMcCord - exCTO at Netflix](People/PattyMcCord(CTO-Netflix).md)
+
+[Simon Sinek - The Infinite Game: How to Lead in the 21st Century](People/SimonSinek.md)
 
 ### Self Help
 
