@@ -51,3 +51,18 @@ If any god told you that you will die tomorrow, or certainly on the day after to
 ### 1.
 
 In the morning, when you rise unwillingly, let this thought be present. I am rising to the work of a human being. Why then am i dissatisfied if I am going to do the things for which I exist and for which I was brought into the world? Or have i been made for this, to lie under the blankets and keep myself warm? But this is more pleasant. Do you exist then to take your pleasure, and not at all for action or exertion? Do you not see the little plats, the little birds, the ants, the spiders, the bees working together to put in order their separate parts of the universe? And are you unwilling to do the work of a human being, and do you not make haste to do what that which is according to your nature? But if necessary to take rest also. It is necessary: nature, however, has fixed bounds to this, too: she has fixed bounds both to eating and drinking, and yet you go beyond these bounds, beyond what is sufficient; yet in your acts it is not so, but you stop short of what you can do. So you do not love yourself, for if you did, you would lover your nature and her will. Bu those who love their several arts exhaust themselves in working at them unwashed and without food; but you value your own nature less than the engraver values the egraving art, or the dancer the dancing art, or the lover of money value his money, or the vainglorious man his little glory. And to eat nor to sleep rather than to perfect the things that they care for. But are the acts that concern society mor vile in your eyes and less worthy of your labor?
+
+### 8.
+
+… And so accept everything that happens, even if it seems disagreeable, because it leads to this, to the health of the universe and the prosperity and felicity of Zeus (the universe). For he would not have brought on any man what he has brought if it were not useful for the whole...
+
+### 31.
+
+How have you behaved hitherto to the gods, your parents, brethren, children, teachers, to those who looked after your infancy, to your friends, kinfolks, to your slaves? Consider if you have hitherto behaved to all in such a way that this way be said of you:
+
+> Never has he wronged a man in deed or word
+
+And call to recollection both how many things you have passed through, and how many things you have been able to endure: and that the history of your life is now complete and your service is ended: and how many beautiful things you have seen: and how many pleasures and pains you have despised; and how many things called honorable you have spurned; and to how many many ill-minded folks you have shown a kind disposition.
+
+## Book VI
+
