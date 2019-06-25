@@ -10,6 +10,14 @@ Cool or important info.
 
 [Simon Sinek - The Infinite Game: How to Lead in the 21st Century](People/SimonSinek.md)
 
+### Success
+
+[Will Smith](People/WillSmith.md)
+
+### Work ethic
+
+[Will Smith](People/WillSmith.md)
+
 ### Entrepreneurship
 
 [Randall Pich - CEO at Live Fit](People/RandallPich(CEO-LiveFit).md)
