@@ -66,3 +66,11 @@ And call to recollection both how many things you have passed through, and how m
 
 ## Book VI
 
+### 2.
+
+Let it make no difference to you whether you are cold or warm, if you are doing your duty; and whether you are drowsy or satisfied with sleep; and whether ill-spoken of or praised; and whether dying or doing something else. For it is one of the acts of life, this act by which we die: it is sufficient the in this act also to do well what we have in hand.
+
+### 7.
+
+Take pleasure in one thing and rest in it: in passing from one social act to another social act, thinking of God.
+
