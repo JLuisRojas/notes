@@ -3,7 +3,14 @@ Cool or important info.
 
 ## Categories 
 
+### Human Nature
+
+[The Laws Of Human Nature - Robert Greene](Books/TheLawsOfHumanNature-RG.md)
+
 ### Leadership
+
+[The Laws Of Human Nature - Robert Greene](Books/TheLawsOfHumanNature-RG.md)
+
 [Phil Condit - CEO at Boeing](People/PhilCondit(CEO-Boeing).md)
 
 [PattyMcCord - exCTO at Netflix](People/PattyMcCord(CTO-Netflix).md)
@@ -12,6 +19,8 @@ Cool or important info.
 
 ### Success
 
+[The Laws Of Human Nature - Robert Greene](Books/TheLawsOfHumanNature-RG.md)
+
 [Will Smith](People/WillSmith.md)
 
 ### Work ethic
@@ -19,6 +28,8 @@ Cool or important info.
 [Will Smith](People/WillSmith.md)
 
 ### Entrepreneurship
+
+[Explosive Growth - Cliff Lerner](Books/ExplosiveGrowth-CL.md)
 
 [Randall Pich - CEO at Live Fit](People/RandallPich(CEO-LiveFit).md)
 
@@ -30,11 +41,15 @@ Cool or important info.
 
 [Matt D'Avella - Let Go of Control Before You Lose It](YouTube/Matt-D'Avella.md)
 
+[The Laws Of Human Nature - Robert Greene](Books/TheLawsOfHumanNature-RG.md)
+
 ### Rationality
 
 [Fake Beliefs - Less Wrong 2.0](Rationality/LW2-Fake-Beliefs.md)
 
 [Predictably Wrong - Less Wrong 2.0](Rationality/LW2-Predictably-Wrong.md)
+
+[The Laws Of Human Nature - Robert Greene](Books/TheLawsOfHumanNature-RG.md)
 
 ### Marketing
 
