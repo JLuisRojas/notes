@@ -53,3 +53,28 @@ To achive this:
 * Let information and ideas flows freely (open mindness, transparency. Similar a cosas de Ray Dalio en Principles)
 * Infect the group with productive emotions.
 * See how people work under stress to create a great team.
+
+## Make them want to follow you
+
+People are always ambivalent about those in power. They want to be led but also to be free; they worship the king and want to kill him. Authority is the delicate art of creating the apperance of power, legitimacy, and fairness while getting people to identify with you as a leader who is in their service.
+
+### Strategies for establshing authority
+
+* **find your authority style:** Authenticity
+* **focus outwardly:** The Attitude
+	1. Deeply listen to others
+	2. Dedicate yourself to learning people respect, you do not feel entitle to it.
+	3. Consider being a leader a tremendous responsibility.
+* **Cultivate the third eye:** have a vision, then slowly work backward to the present, creating a resonable and flexible plan
+* **Stir confilting emotions**
+* **Never appear to take always to give**
+* **Rejunevate your authority:** Adaptability
+
+### The Inner Authority
+
+* You have a responsibility to contribute to the culture
+* Cultivate whats unique about you
+* You must focuse and prioritize
+* You must adhere to the highest standards on your work
+
+> "ostinato rigore" - Leonardo Da Vinci (relentless rigore)
