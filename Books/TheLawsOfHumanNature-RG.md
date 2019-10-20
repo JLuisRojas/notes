@@ -77,4 +77,18 @@ People are always ambivalent about those in power. They want to be led but also 
 * You must focuse and prioritize
 * You must adhere to the highest standards on your work
 
-> "ostinato rigore" - Leonardo Da Vinci (relentless rigore)
+> "ostinato rigore" - Leonardo Da Vinci (relentless rigore) <br>
+
+## Behind The Freandly Facada
+
+People are always trying to achive something; more power, influence, recognition. This causes people to behave agressebly in ways that they don't realize. The hostility is natural, you need to:
+
+* Recognize this in yourself and control the agresion.
+* Recognize patterns of agression on people. (more in the book)
+
+**To control the agression:** agresion is a powerful energy that is distincltly human, but it has positive and negative aspects to it. We can observe this energy with out filter in our childhood.
+
+* Have ambition
+* Be persistance
+* Be fearless
+* Focus your anger in what really matters
