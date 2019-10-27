@@ -79,7 +79,7 @@ People are always ambivalent about those in power. They want to be led but also 
 
 > "ostinato rigore" - Leonardo Da Vinci (relentless rigore) <br>
 
-## Behind The Freandly Facada
+## Behind The Freandly Facade
 
 People are always trying to achive something; more power, influence, recognition. This causes people to behave agressebly in ways that they don't realize. The hostility is natural, you need to:
 

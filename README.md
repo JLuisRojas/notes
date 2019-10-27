@@ -59,6 +59,12 @@ Cool or important info.
 
 [PattyMcCord - exCTO at Netflix](People/PattyMcCord(CTO-Netflix).md)
 
+### Science
+[A Short History of Nearly Everything - Bill Bryson](Books/AShortHistoryOfNearlyEverything-BB.md)
+
 ## Books
 [Meditations - by Marucs Aurelius](Books/Meditations-MA.md)
+[A Short History of Nearly Everything - Bill Bryson](Books/AShortHistoryOfNearlyEverything-BB.md)
+[The Laws Of Human Nature - Robert Greene](Books/TheLawsOfHumanNature-RG.md)
+[Explosive Growth - Cliff Lerner](Books/ExplosiveGrowth-CL.md)
 
