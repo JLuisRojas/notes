@@ -64,7 +64,10 @@ Cool or important info.
 
 ## Books
 [Meditations - by Marucs Aurelius](Books/Meditations-MA.md)
+
 [A Short History of Nearly Everything - Bill Bryson](Books/AShortHistoryOfNearlyEverything-BB.md)
+
 [The Laws Of Human Nature - Robert Greene](Books/TheLawsOfHumanNature-RG.md)
+
 [Explosive Growth - Cliff Lerner](Books/ExplosiveGrowth-CL.md)
 
