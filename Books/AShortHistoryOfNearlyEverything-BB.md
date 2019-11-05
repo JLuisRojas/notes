@@ -1,6 +1,7 @@
 # A Short History of Nearly Everything
 > read: 25/Octubre/2019 <br>
 
+Score: 3.5/5
 Tags: Science
 
 This is a great book that I wish I read earlier in my life so I be more interested in science and understanding the world many times we end up hating this topics thanks to school, mainly by the way the teach us this things.

@@ -1,5 +1,6 @@
 # The Laws Of Human Nature - Robert Greene
 
+Score: 5/5
 Tags: #human-nature #rationality #success #leadership #self-help
 
 ## Grandiosity

@@ -2,6 +2,8 @@
 
 Writing thoughts about the current priorites.
 
+* Apreciar mas la mortalidad
+* Ser mas agredecido
 * Trabajar en FruitAI
 * Projecto open-source de reconocimiento de voces
 * Crear vlog

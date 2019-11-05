@@ -1,6 +1,7 @@
 # Meditations - by Marucs Aurelius (Dover Thirft Editions)
 > Book info: <br>
-> 
+
+Score: 5/5
 
 ## Book II
 ### 4.

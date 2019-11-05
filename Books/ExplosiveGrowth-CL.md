@@ -1,5 +1,6 @@
 # Explosive Growth – by Cliff Lerner
 
+Score: 4/5
 Tags: #entrepreneurship
 
 Muy buen libro mucho valor, este solo es un poco resumen de toda la informacion que da. Vale la pena volver a leerlo para recordar las lecciones y es una lectura rápida.
