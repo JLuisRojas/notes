@@ -23,6 +23,10 @@ Cool or important info.
 
 [Will Smith](People/WillSmith.md)
 
+[David and Goliath - Malcom Gladwell](Books/DavidAndGoliath-MG.md)
+
+[Essentialism: The Disciplined Pursuit of Less - Greg McKeown](Books/Essentialism-GM.md)
+
 ### Work ethic
 
 [Will Smith](People/WillSmith.md)
@@ -36,6 +40,8 @@ Cool or important info.
 [PattyMcCord - exCTO at Netflix](People/PattyMcCord(CTO-Netflix).md)
 
 [Simon Sinek - The Infinite Game: How to Lead in the 21st Century](People/SimonSinek.md)
+
+[David and Goliath - Malcom Gladwell](Books/DavidAndGoliath-MG.md)
 
 ### Self Help
 
@@ -70,4 +76,8 @@ Cool or important info.
 [The Laws Of Human Nature - Robert Greene](Books/TheLawsOfHumanNature-RG.md)
 
 [Explosive Growth - Cliff Lerner](Books/ExplosiveGrowth-CL.md)
+
+[David and Goliath - Malcom Gladwell](Books/DavidAndGoliath-MG.md)
+
+[Essentialism: The Disciplined Pursuit of Less - Greg McKeown](Books/Essentialism-GM.md)
 
