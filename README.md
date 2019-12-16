@@ -68,6 +68,12 @@ Cool or important info.
 ### Science
 [A Short History of Nearly Everything - Bill Bryson](Books/AShortHistoryOfNearlyEverything-BB.md)
 
+### Finance
+[The Intelligent Investor - Benjamin Graham](Books/TheIntelligentInvestor-BG.md)
+
+### Investing
+[The Intelligent Investor - Benjamin Graham](Books/TheIntelligentInvestor-BG.md)
+
 ## Books
 [Meditations - by Marucs Aurelius](Books/Meditations-MA.md)
 
@@ -80,4 +86,6 @@ Cool or important info.
 [David and Goliath - Malcom Gladwell](Books/DavidAndGoliath-MG.md)
 
 [Essentialism: The Disciplined Pursuit of Less - Greg McKeown](Books/Essentialism-GM.md)
+
+[The Intelligent Investor - Benjamin Graham](Books/TheIntelligentInvestor-BG.md)
 

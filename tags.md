@@ -12,3 +12,5 @@ All tags:
 * hiring
 * human-nature
 * Science
+* finance
+* investing
