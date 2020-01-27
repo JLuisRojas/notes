@@ -17,6 +17,8 @@ Cool or important info.
 
 [Simon Sinek - The Infinite Game: How to Lead in the 21st Century](People/SimonSinek.md)
 
+[Genghis Khan and the Making of the Modern World - Jack Weatherford](Books/GenghisKhan-JW.md)
+
 ### Success
 
 [The Laws Of Human Nature - Robert Greene](Books/TheLawsOfHumanNature-RG.md)
@@ -26,6 +28,8 @@ Cool or important info.
 [David and Goliath - Malcom Gladwell](Books/DavidAndGoliath-MG.md)
 
 [Essentialism: The Disciplined Pursuit of Less - Greg McKeown](Books/Essentialism-GM.md)
+
+[Genghis Khan and the Making of the Modern World - Jack Weatherford](Books/GenghisKhan-JW.md)
 
 ### Work ethic
 
@@ -88,4 +92,6 @@ Cool or important info.
 [Essentialism: The Disciplined Pursuit of Less - Greg McKeown](Books/Essentialism-GM.md)
 
 [The Intelligent Investor - Benjamin Graham](Books/TheIntelligentInvestor-BG.md)
+
+[Genghis Khan and the Making of the Modern World - Jack Weatherford](Books/GenghisKhan-JW.md)
 
