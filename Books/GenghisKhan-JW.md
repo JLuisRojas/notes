@@ -1,9 +1,9 @@
-# Genghis Khan and the Making of the Modern World - Jack Weatherford
+# genghis khan and the making of the modern world - jack weatherford
 
-Score: 5/5
-Tags: #success #leadership 
+score: 5/5
+tags: #success #leadership 
 
-Genghis Khan achived great success for the Mongol empire, that impacted the modern world in ways we have forgotten. We judge Genghis Khan as a cruel and monstrous man, but we need to understand that those were other times, life was very different, and history has told us a different history of what really happened. With this in mind this are some of what I consider great lessons from Genghis Khan.
+genghis khan achived great success for the mongol empire, that impacted the modern world in ways we have forgotten. we judge genghis khan as a cruel and monstrous man, but we need to understand that those were other times, life was very different, and history has told us a different history of what really happened. with this in mind this are some of what i consider great lessons from genghis khan.
 
 ## Doing Things For The Right Purpose
 From the kidnapping of his first wife, Genghis Khan was protecting his family and assuring its prosperity, this never change even when his family was the entire Mongol empire. This purpose was what lead to a life of warfare and success for the Mongols, it never was about personal power or pride. For example soilder purpose was not to die for the empire, instead their purpose was to achive prosperity for the Mongols this lead them to take the right actions in battle. 

@@ -61,6 +61,8 @@ Cool or important info.
 
 [The Laws Of Human Nature - Robert Greene](Books/TheLawsOfHumanNature-RG.md)
 
+[Thinking Fast and Slow - Daniel Kahneman](Books/ThinkingFastAndSlow-DK.md)
+
 ### Marketing
 
 [Randall Pich - CEO at Live Fit](People/RandallPich(CEO-LiveFit).md)
@@ -77,6 +79,9 @@ Cool or important info.
 
 ### Investing
 [The Intelligent Investor - Benjamin Graham](Books/TheIntelligentInvestor-BG.md)
+
+### Psychology
+[Thinking Fast and Slow - Daniel Kahneman](Books/ThinkingFastAndSlow-DK.md)
 
 ## Books
 [Meditations - by Marucs Aurelius](Books/Meditations-MA.md)
@@ -95,3 +100,4 @@ Cool or important info.
 
 [Genghis Khan and the Making of the Modern World - Jack Weatherford](Books/GenghisKhan-JW.md)
 
+[Thinking Fast and Slow - Daniel Kahneman](Books/ThinkingFastAndSlow-DK.md)

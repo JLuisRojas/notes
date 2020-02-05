@@ -14,3 +14,4 @@ All tags:
 * Science
 * finance
 * investing
+* psychology
